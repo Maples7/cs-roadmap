@@ -1,2 +1,2 @@
-# cs-knowledge-graph
-My personal knowledge graph on Computer Science. A.k.a teaching myself Computer Science.
+# cs-roadmap
+My personal learning roadmap on Computer Science. A.k.a teaching myself Computer Science.
