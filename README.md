@@ -67,6 +67,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 - [Github](https://github.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [LeetCode](https://leetcode.com/)
 
 ## 1.6. Podcasts
 
