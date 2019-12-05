@@ -8,20 +8,19 @@ Tasks lists 记录的是我自己的完成或掌握情况，其他人如果参�
 
 ## 1.1. Directory
 
-<!-- TOC orderedlist:true -->
+<!-- TOC orderedlist:true depthfrom:2 -->
 
-- [1. cs-roadmap](#1-cs-roadmap)
-  - [1.1. Directory](#11-directory)
-  - [1.2. MOOCs](#12-moocs)
-    - [1.2.1. Fundamentals](#121-fundamentals)
-    - [1.2.2. Data Structures and Algorithms](#122-data-structures-and-algorithms)
-  - [1.3. Books](#13-books)
-    - [1.3.1. Fundamentals](#131-fundamentals)
-    - [1.3.2. Programming Languages](#132-programming-languages)
-      - [1.3.2.1. Node.js](#1321-nodejs)
-      - [1.3.2.2. Elixir](#1322-elixir)
-  - [1.4. Others](#14-others)
-  - [1.5. References](#15-references)
+- [1.1. Directory](#11-directory)
+- [1.2. MOOCs](#12-moocs)
+  - [1.2.1. Fundamentals](#121-fundamentals)
+  - [1.2.2. Data Structures and Algorithms](#122-data-structures-and-algorithms)
+- [1.3. Books](#13-books)
+  - [1.3.1. Fundamentals](#131-fundamentals)
+  - [1.3.2. Programming Languages](#132-programming-languages)
+    - [1.3.2.1. Node.js](#1321-nodejs)
+    - [1.3.2.2. Elixir](#1322-elixir)
+- [1.4. Others](#14-others)
+- [1.5. References](#15-references)
 
 <!-- /TOC -->
 
