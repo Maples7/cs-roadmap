@@ -65,7 +65,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ## 1.5. Websites
 
-- [Github](https://github.com/)
+- [GitHub](https://github.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [LeetCode](https://leetcode.com/)
 
