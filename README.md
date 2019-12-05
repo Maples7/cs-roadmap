@@ -38,6 +38,10 @@ Tasks lists 记录的是我自己的完成或掌握情况，其他人如果参�
 - [x] [Official getting started guide](https://elixir-lang.org/getting-started/introduction.html)
 - [ ] [Elixir in Action](https://book.douban.com/subject/25897187/)
 
+## Others
+
+- [x] [提问的智慧](https://zh.wikipedia.org/wiki/提问的智慧)
+
 ## References
 
 - [编程入门指南 - 萧井陌，Badger](https://zhuanlan.zhihu.com/p/19959253)
