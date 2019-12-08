@@ -14,7 +14,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 - [1.2. MOOCs](#12-moocs)
   - [1.2.1. Fundamentals](#121-fundamentals)
   - [1.2.2. Data Structures and Algorithms](#122-data-structures-and-algorithms)
-  - [1.2.3. Principles of Computer Composition](#123-principles-of-computer-composition)
+  - [1.2.3. Computer Architecture](#123-computer-architecture)
   - [1.2.4. Mathematics](#124-mathematics)
   - [1.2.5. Operating Systems](#125-operating-systems)
   - [1.2.6. Computer Networking](#126-computer-networking)
@@ -22,7 +22,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 - [1.3. Books](#13-books)
   - [1.3.1. Fundamentals](#131-fundamentals)
   - [1.3.2. Data Structures and Algorithms](#132-data-structures-and-algorithms)
-  - [1.3.3. Principles of Computer Composition](#133-principles-of-computer-composition)
+  - [1.3.3. Computer Architecture](#133-computer-architecture)
   - [1.3.4. Mathematics](#134-mathematics)
   - [1.3.5. Operating Systems](#135-operating-systems)
   - [1.3.6. Computer Networking](#136-computer-networking)
@@ -53,7 +53,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 - [x] [数据结构（下）- 学堂在线 - 邓俊辉](https://next.xuetangx.com/course/THU08091002048/)
 - [ ] [算法 - Stanford](https://www.coursera.org/specializations/algorithms)
 
-### 1.2.3. Principles of Computer Composition
+### 1.2.3. Computer Architecture
 
 - [ ] [依据基本原理构建现代计算机：从与非门到俄罗斯方块（基于项目的课程）](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Great Ideas in Computer Architecture (Machine Structures) - CS 61C at UC Berkeley](https://cs61c.org/)
@@ -92,7 +92,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 - [ ] [数据结构习题解析 - 邓俊辉](https://book.douban.com/subject/26365845/)
 - [ ] [算法导论 - CLRS](https://book.douban.com/subject/20432061/)
 
-### 1.3.3. Principles of Computer Composition
+### 1.3.3. Computer Architecture
 
 - [x] [编码：隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/)
 - [ ] [计算机系统要素](https://book.douban.com/subject/1998341/)
