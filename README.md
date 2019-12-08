@@ -2,7 +2,7 @@
 
 My personal learning roadmap on Computer Science. A.k.a teaching myself Computer Science.
 
-记录我自己的 CS 学习路径，但并不会把所有的东西都放在这里，我只会尽可能把每个分类下**我认为最好的、值得花时间且学习体验不错的（或者日常消遣体验不错）**一些资料/课程/书籍/视频/博客文章/常用网站/播客列出来。顺序大致按照由浅入深、由简到难、由宏观到局部来排列。
+记录我自己的 CS 系统学习路径，但并不会把所有的东西都放在这里，我只会尽可能把每个分类下**我认为最好的、值得花时间且学习体验不错的（或者日常消遣体验不错）**一些资料/课程/书籍/视频/博客文章/源代码/常用网站/播客列出来。顺序大致按照由浅入深、由简到难、由宏观到局部来排列。
 
 Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果参考这个列表可以忽视。
 
@@ -14,11 +14,23 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 - [1.2. MOOCs](#12-moocs)
   - [1.2.1. Fundamentals](#121-fundamentals)
   - [1.2.2. Data Structures and Algorithms](#122-data-structures-and-algorithms)
+  - [1.2.3. Principles of Computer Composition](#123-principles-of-computer-composition)
+  - [1.2.4. Mathematics](#124-mathematics)
+  - [1.2.5. Operating Systems](#125-operating-systems)
+  - [1.2.6. Computer Networking](#126-computer-networking)
+  - [1.2.7. Compilers](#127-compilers)
 - [1.3. Books](#13-books)
   - [1.3.1. Fundamentals](#131-fundamentals)
-  - [1.3.2. Programming Languages](#132-programming-languages)
-    - [1.3.2.1. Node.js](#1321-nodejs)
-    - [1.3.2.2. Elixir](#1322-elixir)
+  - [1.3.2. Data Structures and Algorithms](#132-data-structures-and-algorithms)
+  - [1.3.3. Principles of Computer Composition](#133-principles-of-computer-composition)
+  - [1.3.4. Mathematics](#134-mathematics)
+  - [1.3.5. Operating Systems](#135-operating-systems)
+  - [1.3.6. Computer Networking](#136-computer-networking)
+  - [1.3.7. Compilers](#137-compilers)
+  - [1.3.8. Programming Languages](#138-programming-languages)
+    - [1.3.8.1. C](#1381-c)
+    - [1.3.8.2. Node.js](#1382-nodejs)
+    - [1.3.8.3. Elixir](#1383-elixir)
 - [1.4. Essays](#14-essays)
 - [1.5. Websites](#15-websites)
 - [1.6. Podcasts](#16-podcasts)
@@ -31,30 +43,98 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ### 1.2.1. Fundamentals
 
-- [x] [Introduction to Computer Science - Harvard CS50x](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [ ] [Introduction to Computer Science - Harvard CS50x](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [x] [计算机科学和 Python 编程导论 - MIT 6.00.1x](https://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
+- [ ] [计算机程序的结构和解释 - SICP](https://github.com/DeathKing/Learning-SICP/)
 
 ### 1.2.2. Data Structures and Algorithms
 
 - [x] [数据结构（上）- 学堂在线 - 邓俊辉](https://next.xuetangx.com/course/THU08091000384/)
 - [x] [数据结构（下）- 学堂在线 - 邓俊辉](https://next.xuetangx.com/course/THU08091002048/)
+- [ ] [算法 - Stanford](https://www.coursera.org/specializations/algorithms)
+
+### 1.2.3. Principles of Computer Composition
+
+- [ ] [依据基本原理构建现代计算机：从与非门到俄罗斯方块（基于项目的课程）](https://www.coursera.org/learn/build-a-computer)
+- [ ] [Great Ideas in Computer Architecture (Machine Structures) - CS 61C at UC Berkeley](https://cs61c.org/)
+
+### 1.2.4. Mathematics
+
+- [ ] [Mathematics for Computer Science - MIT 6.042J](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
+- [ ] [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [ ] [Linear Algebra - MIT 18.06](http://web.mit.edu/18.06/www/videos.shtml)
+
+### 1.2.5. Operating Systems
+
+- [ ] [Operating Systems and System Programming - UC Berkeley CS162](https://github.com/Berkeley-CS162)
+
+### 1.2.6. Computer Networking
+
+- [ ] [Introduction to Computer Networking - Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+
+### 1.2.7. Compilers
+
+- [ ] [Compilers - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 
 ## 1.3. Books
 
 ### 1.3.1. Fundamentals
 
-- [x] [编码：隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/)
+- [ ] [How to Design Programs](https://book.douban.com/subject/30175977/)
+- [ ] [深入理解计算机系统 - CSAPP](https://book.douban.com/subject/5333562/)
 - [ ] [计算机程序的构造和解释 - SICP](https://book.douban.com/subject/1148282/)
 
-### 1.3.2. Programming Languages
+### 1.3.2. Data Structures and Algorithms
 
-#### 1.3.2.1. Node.js
+- [ ] [编程珠玑](https://book.douban.com/subject/26302533/)
+- [ ] [Algorithms](https://book.douban.com/subject/1996256/)
+- [ ] [数据结构 - 邓俊辉](https://book.douban.com/subject/25859528/)
+- [ ] [数据结构习题解析 - 邓俊辉](https://book.douban.com/subject/26365845/)
+- [ ] [算法导论 - CLRS](https://book.douban.com/subject/20432061/)
+
+### 1.3.3. Principles of Computer Composition
+
+- [x] [编码：隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/)
+- [ ] [计算机系统要素](https://book.douban.com/subject/1998341/)
+- [ ] [计算机组成与设计](https://book.douban.com/subject/26604008/)
+
+### 1.3.4. Mathematics
+
+- [ ] [计算机科学中的数学：信息与智能时代的必修课](https://book.douban.com/subject/33396340/)
+- [ ] [线性代数](https://book.douban.com/subject/34820335/)
+
+### 1.3.5. Operating Systems
+
+- [ ] [Operating Systems](https://book.douban.com/subject/25984145/)
+- [ ] [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/)
+- [ ] [现代操作系统](https://book.douban.com/subject/27096665/)
+
+### 1.3.6. Computer Networking
+
+- [ ] [Computer Networking: A Top-Down Approach](https://book.douban.com/subject/10573157/)
+
+### 1.3.7. Compilers
+
+- [ ] [Programming Language Pragmatics](https://book.douban.com/subject/3743526/)
+- [ ] [Engineering a Compiler](https://book.douban.com/subject/5288601/)
+- [ ] [编译原理：原理、技术与工具 - 龙书](https://book.douban.com/subject/3296317/)
+
+### 1.3.8. Programming Languages
+
+- [ ] [代码大全](https://book.douban.com/subject/1477390/)
+- [ ] [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
+
+#### 1.3.8.1. C
+
+- [ ] [C 程序设计语言](https://book.douban.com/subject/1139336/)
+
+#### 1.3.8.2. Node.js
 
 - [x] [JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [ ] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
 - [x] [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 
-#### 1.3.2.2. Elixir
+#### 1.3.8.3. Elixir
 
 - [x] [Official getting started guide](https://elixir-lang.org/getting-started/introduction.html)
 - [ ] [Elixir in Action](https://book.douban.com/subject/25897187/)
@@ -76,7 +156,8 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 ## 1.7. References
 
 - [x] [编程入门指南 - 萧井陌，Badger](https://zhuanlan.zhihu.com/p/19959253)
-- [ ] [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [x] [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [x] [骑鹿人的计算机科学学习指南](http://cslearner.cn/)
 
 ## 1.8. About Me
 
