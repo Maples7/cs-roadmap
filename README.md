@@ -28,9 +28,10 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
   - [1.3.6. Computer Networking](#136-computer-networking)
   - [1.3.7. Compilers](#137-compilers)
   - [1.3.8. Programming Languages](#138-programming-languages)
-    - [1.3.8.1. C](#1381-c)
-    - [1.3.8.2. Node.js](#1382-nodejs)
-    - [1.3.8.3. Elixir](#1383-elixir)
+    - [1.3.8.1. Python](#1381-python)
+    - [1.3.8.2. C](#1382-c)
+    - [1.3.8.3. Node.js](#1383-nodejs)
+    - [1.3.8.4. Elixir](#1384-elixir)
 - [1.4. Essays](#14-essays)
 - [1.5. Websites](#15-websites)
 - [1.6. Podcasts](#16-podcasts)
@@ -123,18 +124,23 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 - [ ] [代码大全](https://book.douban.com/subject/1477390/)
 - [ ] [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
+- [ ] [冒号课堂](https://book.douban.com/subject/4031906//)
 
-#### 1.3.8.1. C
+#### 1.3.8.1. Python
+
+- [ ] [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
+
+#### 1.3.8.2. C
 
 - [ ] [C 程序设计语言](https://book.douban.com/subject/1139336/)
 
-#### 1.3.8.2. Node.js
+#### 1.3.8.3. Node.js
 
 - [x] [JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [ ] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
 - [x] [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 
-#### 1.3.8.3. Elixir
+#### 1.3.8.4. Elixir
 
 - [x] [Official getting started guide](https://elixir-lang.org/getting-started/introduction.html)
 - [ ] [Elixir in Action](https://book.douban.com/subject/25897187/)
