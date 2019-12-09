@@ -85,6 +85,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 - [ ] [How to Design Programs](https://book.douban.com/subject/30175977/)
 - [ ] [深入理解计算机系统 - CSAPP](https://book.douban.com/subject/5333562/)
 - [ ] [计算机程序的构造和解释 - SICP](https://book.douban.com/subject/1148282/)
+- [ ] [The Art of Computer Programming - TAOCP](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
 
 ### 1.3.2. Data Structures and Algorithms
 
@@ -124,6 +125,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 ### 1.3.8. Programming Languages
 
 - [ ] [代码大全](https://book.douban.com/subject/1477390/)
+- [ ] [UNIX 编程艺术](https://book.douban.com/subject/11609943/)
 - [ ] [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
 - [ ] [冒号课堂](https://book.douban.com/subject/4031906//)
 
