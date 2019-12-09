@@ -141,6 +141,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ## 1.4. Essays
 
+- [x] [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 - [x] [提问的智慧](https://zh.wikipedia.org/wiki/提问的智慧)
 
 ## 1.5. Websites
