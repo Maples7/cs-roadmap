@@ -59,6 +59,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 ### 1.2.3. Computer Architecture
 
 - [ ] [依据基本原理构建现代计算机：从与非门到俄罗斯方块（基于项目的课程）](https://www.coursera.org/learn/build-a-computer)
+- [ ] [Computation Structures - MIT 6.004](https://6004.mit.edu/)
 - [ ] [Great Ideas in Computer Architecture (Machine Structures) - UC Berkeley CS 61C](https://cs61c.org/)
 
 ### 1.2.4. Mathematics
@@ -70,6 +71,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 ### 1.2.5. Operating Systems
 
 - [ ] [Operating Systems and System Programming - UC Berkeley CS162](https://github.com/Berkeley-CS162)
+- [ ] [Operating System Engineering - MIT 6.828](https://pdos.csail.mit.edu/6.828/)
 
 ### 1.2.6. Computer Networking
 
@@ -109,8 +111,9 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ### 1.3.5. Operating Systems
 
-- [ ] [Operating Systems](https://book.douban.com/subject/25984145/)
+- [ ] [Operating Systems: Principles and Practice](https://book.douban.com/subject/25984145/)
 - [ ] [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/)
+- [ ] [Operating System Concepts](https://book.douban.com/subject/10076960/)
 - [ ] [现代操作系统](https://book.douban.com/subject/27096665/)
 
 ### 1.3.6. Computer Networking
