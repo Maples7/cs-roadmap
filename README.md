@@ -156,6 +156,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ## 1.5. Source Code
 
+- [ ] [Redis](https://github.com/antirez/redis)
 - [x] [Koa.js](https://github.com/koajs/koa)
 
 ## 1.6. Websites
