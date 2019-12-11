@@ -31,7 +31,8 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
     - [1.3.8.1. Python](#1381-python)
     - [1.3.8.2. C](#1382-c)
     - [1.3.8.3. Node.js](#1383-nodejs)
-    - [1.3.8.4. Elixir](#1384-elixir)
+    - [1.3.8.4. Erlang](#1384-erlang)
+    - [1.3.8.5. Elixir](#1385-elixir)
 - [1.4. Essays](#14-essays)
 - [1.5. Source Code](#15-source-code)
 - [1.6. Websites](#16-websites)
@@ -145,9 +146,15 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 - [x] [JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [ ] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+- [x] [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/)
 - [x] [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+- [x] [深入浅出 Node.js](https://book.douban.com/subject/25768396/)
 
-#### 1.3.8.4. Elixir
+#### 1.3.8.4. Erlang
+
+- [x] [Erlang 程序设计](https://book.douban.com/subject/25892728/)
+
+#### 1.3.8.5. Elixir
 
 - [x] [Official getting started guide](https://elixir-lang.org/getting-started/introduction.html)
 - [ ] [Elixir in Action](https://book.douban.com/subject/25897187/)
