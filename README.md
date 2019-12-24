@@ -71,7 +71,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ### 1.2.5. Operating Systems
 
-- [ ] [Operating Systems and System Programming - UC Berkeley CS162](https://github.com/Berkeley-CS162)
+- [ ] [Operating Systems and System Programming - UC Berkeley CS 162](https://github.com/Berkeley-CS162)
 - [ ] [Operating System Engineering - MIT 6.828](https://pdos.csail.mit.edu/6.828/)
 
 ### 1.2.6. Computer Networking
