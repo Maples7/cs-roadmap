@@ -81,6 +81,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 ### 1.2.7. Compilers
 
 - [ ] [Compilers - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+- [ ] [Programming Languages and Compilers - UC Berkeley CS 164](https://www2.eecs.berkeley.edu/Courses/CS164/)
 
 ## 1.3. Books
 
