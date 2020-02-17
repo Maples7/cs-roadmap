@@ -158,7 +158,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 #### 1.3.8.5. Elixir
 
 - [x] [Official getting started guide](https://elixir-lang.org/getting-started/introduction.html)
-- [ ] [Elixir in Action](https://book.douban.com/subject/25897187/)
+- [x] [Elixir in Action](https://book.douban.com/subject/25897187/)
 
 ## 1.4. Essays
 
