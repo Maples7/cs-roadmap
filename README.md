@@ -137,7 +137,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 #### 1.3.8.1. Python
 
-- [ ] [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
+- [ ] [The Python Tutorial](https://docs.python.org/3/tutorial/)
 
 #### 1.3.8.2. C
 
