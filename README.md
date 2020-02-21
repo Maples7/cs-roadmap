@@ -19,6 +19,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
   - [1.2.5. Operating Systems](#125-operating-systems)
   - [1.2.6. Computer Networking](#126-computer-networking)
   - [1.2.7. Compilers](#127-compilers)
+  - [1.2.8. Distributed Systems](#128-distributed-systems)
 - [1.3. Books](#13-books)
   - [1.3.1. Fundamentals](#131-fundamentals)
   - [1.3.2. Data Structures and Algorithms](#132-data-structures-and-algorithms)
@@ -82,6 +83,10 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 - [ ] [Compilers - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 - [ ] [Programming Languages and Compilers - UC Berkeley CS 164](https://www2.eecs.berkeley.edu/Courses/CS164/)
+
+### 1.2.8. Distributed Systems
+
+- [ ] [Distributed Systems - MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
 
 ## 1.3. Books
 
