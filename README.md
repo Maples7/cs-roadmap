@@ -47,7 +47,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ### 1.2.1. Fundamentals
 
-- [ ] [Introduction to Computer Science - Harvard CS50x](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [ ] [Introduction to Computer Science - Harvard CS50x](https://cs50.harvard.edu/x/)
 - [x] [计算机科学和 Python 编程导论 - MIT 6.00.1x](https://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)
 - [ ] [Structure and Interpretation of Computer Programs - UC Berkeley CS 61A](https://cs61a.org/)
 - [ ] [计算机程序的结构和解释 - SICP](https://github.com/DeathKing/Learning-SICP/)
