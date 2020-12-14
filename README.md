@@ -12,28 +12,29 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 - [1.1. Directory](#11-directory)
 - [1.2. MOOCs](#12-moocs)
-  - [1.2.1. Fundamentals](#121-fundamentals)
-  - [1.2.2. Data Structures and Algorithms](#122-data-structures-and-algorithms)
-  - [1.2.3. Computer Architecture](#123-computer-architecture)
-  - [1.2.4. Mathematics](#124-mathematics)
-  - [1.2.5. Operating Systems](#125-operating-systems)
-  - [1.2.6. Computer Networking](#126-computer-networking)
-  - [1.2.7. Compilers](#127-compilers)
-  - [1.2.8. Distributed Systems](#128-distributed-systems)
+    - [1.2.1. Fundamentals](#121-fundamentals)
+    - [1.2.2. Data Structures and Algorithms](#122-data-structures-and-algorithms)
+    - [1.2.3. Computer Architecture](#123-computer-architecture)
+    - [1.2.4. Mathematics](#124-mathematics)
+    - [1.2.5. Operating Systems](#125-operating-systems)
+    - [1.2.6. Computer Networking](#126-computer-networking)
+    - [1.2.7. Compilers](#127-compilers)
+    - [1.2.8. Distributed Systems](#128-distributed-systems)
 - [1.3. Books](#13-books)
-  - [1.3.1. Fundamentals](#131-fundamentals)
-  - [1.3.2. Data Structures and Algorithms](#132-data-structures-and-algorithms)
-  - [1.3.3. Computer Architecture](#133-computer-architecture)
-  - [1.3.4. Mathematics](#134-mathematics)
-  - [1.3.5. Operating Systems](#135-operating-systems)
-  - [1.3.6. Computer Networking](#136-computer-networking)
-  - [1.3.7. Compilers](#137-compilers)
-  - [1.3.8. Programming Languages](#138-programming-languages)
-    - [1.3.8.1. Python](#1381-python)
-    - [1.3.8.2. C](#1382-c)
-    - [1.3.8.3. Node.js](#1383-nodejs)
-    - [1.3.8.4. Erlang](#1384-erlang)
-    - [1.3.8.5. Elixir](#1385-elixir)
+    - [1.3.1. Fundamentals](#131-fundamentals)
+    - [1.3.2. Data Structures and Algorithms](#132-data-structures-and-algorithms)
+    - [1.3.3. Computer Architecture](#133-computer-architecture)
+    - [1.3.4. Mathematics](#134-mathematics)
+    - [1.3.5. Operating Systems](#135-operating-systems)
+    - [1.3.6. Computer Networking](#136-computer-networking)
+    - [1.3.7. Compilers](#137-compilers)
+    - [1.3.8. Distributed Systems](#138-distributed-systems)
+    - [1.3.9. Programming Languages](#139-programming-languages)
+        - [1.3.9.1. Python](#1391-python)
+        - [1.3.9.2. C](#1392-c)
+        - [1.3.9.3. Node.js](#1393-nodejs)
+        - [1.3.9.4. Erlang](#1394-erlang)
+        - [1.3.9.5. Elixir](#1395-elixir)
 - [1.4. Essays](#14-essays)
 - [1.5. Source Code](#15-source-code)
 - [1.6. Websites](#16-websites)
@@ -133,22 +134,26 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 - [ ] [Engineering a Compiler](https://book.douban.com/subject/5288601/)
 - [ ] [编译原理：原理、技术与工具 - 龙书](https://book.douban.com/subject/3296317/)
 
-### 1.3.8. Programming Languages
+### 1.3.8. Distributed Systems
+
+- [ ] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
+
+### 1.3.9. Programming Languages
 
 - [ ] [代码大全](https://book.douban.com/subject/1477390/)
 - [ ] [UNIX 编程艺术](https://book.douban.com/subject/11609943/)
 - [ ] [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
 - [ ] [冒号课堂](https://book.douban.com/subject/4031906//)
 
-#### 1.3.8.1. Python
+#### 1.3.9.1. Python
 
 - [ ] [The Python Tutorial](https://docs.python.org/3/tutorial/)
 
-#### 1.3.8.2. C
+#### 1.3.9.2. C
 
 - [ ] [C 程序设计语言](https://book.douban.com/subject/1139336/)
 
-#### 1.3.8.3. Node.js
+#### 1.3.9.3. Node.js
 
 - [x] [JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [ ] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
@@ -156,11 +161,11 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 - [x] [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [x] [深入浅出 Node.js](https://book.douban.com/subject/25768396/)
 
-#### 1.3.8.4. Erlang
+#### 1.3.9.4. Erlang
 
 - [x] [Erlang 程序设计](https://book.douban.com/subject/25892728/)
 
-#### 1.3.8.5. Elixir
+#### 1.3.9.5. Elixir
 
 - [x] [Official getting started guide](https://elixir-lang.org/getting-started/introduction.html)
 - [x] [Elixir in Action](https://book.douban.com/subject/25897187/)
