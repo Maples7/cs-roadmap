@@ -8,7 +8,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ## 1.1. Directory
 
-<!-- TOC orderedlist:true depthfrom:2 -->
+<!-- TOC depthfrom:2 orderedlist:true -->
 
 - [1.1. Directory](#11-directory)
 - [1.2. MOOCs](#12-moocs)
@@ -88,6 +88,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 ### 1.2.8. Distributed Systems
 
 - [ ] [Distributed Systems - MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
+- [ ] [Talent Plan | PingCAP University](https://university.pingcap.com/talent-plan/)
 
 ## 1.3. Books
 
