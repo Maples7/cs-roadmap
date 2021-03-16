@@ -60,6 +60,8 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 - [ ] [依据基本原理构建现代计算机：从与非门到俄罗斯方块（基于项目的课程）](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Computation Structures - MIT 6.004](https://6004.mit.edu/)
 - [ ] [Great Ideas in Computer Architecture (Machine Structures) - UC Berkeley CS 61C](https://cs61c.org/)
+- [ ] [Principles of Computer Systems - Stanford CS110](https://web.stanford.edu/class/cs110/)
+- [ ] [Safety in Systems Programming - Stanford CS110L](https://reberhardt.com/cs110l/)
 
 ### 1.2.4. Mathematics
 
