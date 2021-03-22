@@ -18,6 +18,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
     - [1.2.6. Computer Networking](#126-computer-networking)
     - [1.2.7. Compilers](#127-compilers)
     - [1.2.8. Distributed Systems](#128-distributed-systems)
+    - [1.2.9. Others](#129-others)
 - [1.3. Books](#13-books)
     - [1.3.1. Fundamentals](#131-fundamentals)
     - [1.3.2. Data Structures and Algorithms](#132-data-structures-and-algorithms)
@@ -87,6 +88,10 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 - [ ] [Distributed Systems - MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [ ] [Talent Plan | PingCAP University](https://university.pingcap.com/talent-plan/)
+
+### 1.2.9. Others
+
+- [ ] [Developing Applications for iOS using SwiftUI - Stanford CS193p](https://cs193p.sites.stanford.edu/)
 
 ## 1.3. Books
 
