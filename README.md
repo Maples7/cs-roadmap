@@ -8,8 +8,9 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ## 1.1. Directory
 
-- [1.1. Directory](#11-directory)
-- [1.2. MOOCs](#12-moocs)
+- [1. cs-roadmap](#1-cs-roadmap)
+  - [1.1. Directory](#11-directory)
+  - [1.2. MOOCs](#12-moocs)
     - [1.2.1. Fundamentals](#121-fundamentals)
     - [1.2.2. Data Structures and Algorithms](#122-data-structures-and-algorithms)
     - [1.2.3. Computer Architecture](#123-computer-architecture)
@@ -19,7 +20,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
     - [1.2.7. Compilers](#127-compilers)
     - [1.2.8. Distributed Systems](#128-distributed-systems)
     - [1.2.9. Others](#129-others)
-- [1.3. Books](#13-books)
+  - [1.3. Books](#13-books)
     - [1.3.1. Fundamentals](#131-fundamentals)
     - [1.3.2. Data Structures and Algorithms](#132-data-structures-and-algorithms)
     - [1.3.3. Computer Architecture](#133-computer-architecture)
@@ -29,17 +30,18 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
     - [1.3.7. Compilers](#137-compilers)
     - [1.3.8. Distributed Systems](#138-distributed-systems)
     - [1.3.9. Programming Languages](#139-programming-languages)
-        - [1.3.9.1. Python](#1391-python)
-        - [1.3.9.2. C](#1392-c)
-        - [1.3.9.3. Node.js](#1393-nodejs)
-        - [1.3.9.4. Erlang](#1394-erlang)
-        - [1.3.9.5. Elixir](#1395-elixir)
-- [1.4. Essays](#14-essays)
-- [1.5. Source Code](#15-source-code)
-- [1.6. Websites](#16-websites)
-- [1.7. Podcasts](#17-podcasts)
-- [1.8. References](#18-references)
-- [1.9. About Me](#19-about-me)
+      - [1.3.9.1. Python](#1391-python)
+      - [1.3.9.2. C](#1392-c)
+      - [1.3.9.3. Node.js](#1393-nodejs)
+      - [1.3.9.4. Erlang](#1394-erlang)
+      - [1.3.9.5. Elixir](#1395-elixir)
+      - [1.3.9.6. Swift](#1396-swift)
+  - [1.4. Essays](#14-essays)
+  - [1.5. Source Code](#15-source-code)
+  - [1.6. Websites](#16-websites)
+  - [1.7. Podcasts](#17-podcasts)
+  - [1.8. References](#18-references)
+  - [1.9. About Me](#19-about-me)
 
 ## 1.2. MOOCs
 
@@ -173,6 +175,10 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 - [x] [Official getting started guide](https://elixir-lang.org/getting-started/introduction.html)
 - [x] [Elixir in Action](https://book.douban.com/subject/25897187/)
+
+#### 1.3.9.6. Swift
+
+- [x] [The Swift Programming Language](https://docs.swift.org/swift-book/)
 
 ## 1.4. Essays
 
