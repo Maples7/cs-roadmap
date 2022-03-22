@@ -153,7 +153,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 #### 1.3.9.1. Python
 
-- [ ] [The Python Tutorial](https://docs.python.org/3/tutorial/)
+- [x] [The Python Tutorial](https://docs.python.org/3/tutorial/)
 
 #### 1.3.9.2. C
 
@@ -162,7 +162,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 #### 1.3.9.3. Node.js
 
 - [x] [JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-- [ ] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+- [x] [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
 - [x] [JavaScript: The Good Parts](https://book.douban.com/subject/2994925/)
 - [x] [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [x] [深入浅出 Node.js](https://book.douban.com/subject/25768396/)
