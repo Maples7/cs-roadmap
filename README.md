@@ -93,7 +93,7 @@ Tasks checklist 记录的是我自己的完成或掌握情况，其他人如果�
 
 ### 1.2.9. Others
 
-- [ ] [Developing Applications for iOS using SwiftUI - Stanford CS193p](https://cs193p.sites.stanford.edu/)
+- [x] [Developing Applications for iOS using SwiftUI - Stanford CS193p](https://cs193p.sites.stanford.edu/)
 
 ## 1.3. Books
 
